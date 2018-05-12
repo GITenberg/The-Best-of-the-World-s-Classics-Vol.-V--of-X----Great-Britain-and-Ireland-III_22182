@@ -1,0 +1,64 @@
+_repo: The-Best-of-the-World-s-Classics-Vol.-V--of-X----Great-Britain-and-Ireland-III_22182
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Halsey, Francis W. (Francis Whiting)
+    birthdate: 1851
+    deathdate: 1919
+    gutenberg_agent_id: '3081'
+    url: http://www.gutenberg.org/2009/agents/3081
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Whiting_Halsey
+  - agent_name: Lodge, Henry Cabot
+    birthdate: 1850
+    deathdate: 1924
+    gutenberg_agent_id: '728'
+    url: http://www.gutenberg.org/2009/agents/728
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Cabot_Lodge
+description: ''
+gutenberg_issued: '2007-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22182'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Literature -- Collections'
+tableOfContents: Excerpts from Boswell's "Life of Johnson" -- A Poet Defined, from
+  the Preface to "Lyrical Ballads" by Wordsworth -- The Arrival of the Master of Ravenswood,
+  from "The Bride of Lammermoor" by Scott -- The Death of Meg Merriles, from "Guy
+  Mannering" by Scott -- A Vision of Rob Roy, from "Rob Roy" by Scott -- Queen Elizabeth
+  and Amy Robsart at Kenilworth, from "Kenilworth" by Scott -- The Illness and Death
+  of Lady Scott, from Scott's "Journal" -- Does Fortune Favor Fools?, from "A Sailor's
+  Fortune" by Coleridge -- The Destiny of the United States, from the "Table Talk"
+  by Coleridge -- Nelson's Death at Trafalgar, from the "Life of Nelson" by Southey
+  -- The Death of Hofer, by Landor -- Napoleon and Pericles, by Landor -- Dream Children—A
+  Reverie; Poor Relations; The Origin of Roast Pig; That We Should Rise with the Lark,
+  from the "Essays of Elia" by Lamb -- Hamlet, from the "Characters of Shakespeare's
+  Plays" by Hazlitt -- Dreams of an Opium-Eater, from the "Confessions of an English
+  Opium-Eater" by de Quincey -- Joan of Arc, from the "Biographical and Historical
+  Essays" by de Quincey -- Charles Lamb, from the "Literary Reminiscences" by de Quincey
+  -- Of His Mother's Treatment of Him, letter by Lord Byron -- To His Wife after the
+  Separation, letter by Lord Byron -- To Sir Walter Scott, letter by Lord Byron --
+  Of Art and Nature as Poetical Subjects, from the "Reply to Bowles" by Lord Byron
+  -- In Defense of Poetry, by Shelley -- The Baths of Caracalla, from letter by Shelley
+  -- The ruins of Pompeii, from letter by Shelley -- The Mutilation of the Hermæ;
+  If Alexander Had Lived, from the "History of Greece" by Grote -- Charlotte Corday,
+  from the "History of the French Revolution" by Carlyle -- The Blessedness of Work,
+  from "Past and Present" by Carlyle -- Cromwell, from "Heroes and Hero-Worship, and
+  the Heroic in History" by Carlyle -- In Praise of Those Who Toil, from "Sartor Resartus"
+  by Carlyle -- The Certainty of Justice, from "Past and Present" by Carlyle -- The
+  Greatness of Scott, from essay by Carlyle -- Boswell and His Book, from essay by
+  Carlyle -- Might Burns Have Been Saved?, from essay by Carlyle -- Puritans and Royalists,
+  from the essay by Lord Macaulay -- Cromwell's Army, from the "History of England"
+  by Lord Macaulay -- The Opening of the Trial of Warren Hastings, from essay by Lord
+  Macaulay -- The Gift of Athens to Man, from essay by Lord Macaulay -- The Pathos
+  of Byron's Life, from essay by Macaulay
+title: The Best of the World's Classics, Vol. V (of X) - Great Britain and Ireland
+  III
+url: http://www.gutenberg.org/ebooks/22182
