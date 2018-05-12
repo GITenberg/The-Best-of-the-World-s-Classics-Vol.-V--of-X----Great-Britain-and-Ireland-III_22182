@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/728
     wikipedia: http://en.wikipedia.org/wiki/Henry_Cabot_Lodge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22182#The-Best-of-the-World-s-Classics-Vol.-V--of-X----Great-Britain-and-Ireland-III
 gutenberg_issued: '2007-07-30'
 gutenberg_type: Text
 identifiers:
